@@ -1,0 +1,16 @@
+[
+{
+  "modid": "storagesolutions",
+  "name": "Storage Solutions",
+  "description": "Better Storage Solutions",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RageGamingPE"],
+  "credits": "Everyone!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
